@@ -25,9 +25,6 @@ This project enhanced my understanding of how Excel can be leveraged for healthc
 - **Visualization**: KPI cards, bar charts, pie charts, sparklines, and departmental breakdowns  
 - **Interactivity**: Slicers and filters for dynamic analysis  
 
-## 📸 Dashboard Preview
-![Hospital Emergency Room Dashboard](images/hospital_dashboard.png)
-
 ## ▶️ How to Run
 1. Open the Excel file (`Hospital_Emergency_Dashboard.xlsx`)  
 2. Enable macros if required for slicers or interactivity  
